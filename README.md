@@ -2,7 +2,8 @@
 Lensed z~11 galaxy analyzed in JWST NIRCam images 
 
 Tiger Hsiao et al. (2022)  https://arxiv.org/abs/2210.14123  
-[NASA color image release](https://webbtelescope.org/contents/early-highlights/webb-offers-never-before-seen-details-of-early-universe.html)
+[NASA color image release](https://webbtelescope.org/contents/early-highlights/webb-offers-never-before-seen-details-of-early-universe.html) / 
+[via NASA blog](https://blogs.nasa.gov/webb/2022/10/26/webb-offers-never-before-seen-details-of-early-universe/)
 
 MACS0647+70 JWST + HST grizli v4 image reductions + EAZY photometric redshifts & SED fitting:  
 https://s3.amazonaws.com/grizli-v2/JwstMosaics/v4/index.html#macs0647  
